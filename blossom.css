@@ -82,6 +82,11 @@ body {
 
 
 
+
+
+
+
+
 @media all and (max-width : 768px) {
 
     html,
@@ -163,6 +168,13 @@ body {
         width: 33vw;
     }
 }
+
+
+
+
+
+
+
 
 @media all and (max-width : 320px) {
 

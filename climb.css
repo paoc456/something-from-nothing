@@ -130,6 +130,11 @@ body {
 
 
 
+
+
+
+
+
 @media all and (max-width : 768px) {
 
     html,
@@ -266,6 +271,7 @@ body {
         width: 30vw;
     }
 }
+
 
 
 
