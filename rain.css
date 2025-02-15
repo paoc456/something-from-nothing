@@ -84,10 +84,10 @@ body {
     width: 25vw;
 }
 
+/** for tablet **/
 
-/** for mobile **/
 
-@media all and (max-width : 360px) {
+@media all and (max-width : 768px) {
 
     html,
     body {
@@ -102,25 +102,27 @@ body {
 
     .labels {
         font-family: "Newsreader";
+        font-size: 1.3rem;
         font-weight: 400;
         text-align: center;
-        padding-top: 10rem;
+        padding-top: 7rem;
         margin: 0;
     }
 
     .rain_poem {
         text-align: center;
-        font-size: 7rem;
+        font-size: 3.5rem;
         font-style: italic;
         font-weight: 300;
-        padding: 15rem;
+        padding: 7rem;
         margin: 0;
+        width: 70vw;
     }
 
     .rain_ref {
         text-align: center;
         line-height: 2rem;
-        padding: 20rem;
+        padding: 15rem;
     }
 
 
@@ -135,7 +137,7 @@ body {
         color: #FAD3D8;
         width: 100%;
         height: 200%;
-        padding-bottom: 600px;
+        padding-bottom: 400px;
 
     }
 
@@ -143,29 +145,123 @@ body {
     .rain_block2,
     .rain_block3,
     .rain_block4 {
-        font-size: 2rem;
+        font-size: 1.5rem;
         font-weight: 100;
     }
 
     .rain_block1 {
         position: relative;
         top: 10vw;
-        right: -60vw;
-        width: 26vw;
+        right: -55vw;
+        width: 36vw;
     }
 
     .rain_block2 {
         position: relative;
         top: 13vw;
         left: 15vw;
-        width: 26vw;
+        width: 33vw;
     }
 
     .rain_block3 {
         position: relative;
         top: 37vh;
         left: 24vw;
-        width: 26vw;
+        width: 33vw;
+    }
+
+    .rain_block4 {
+        position: relative;
+        top: 45vh;
+        left: 65vw;
+        width: 25vw;
+    }
+}
+
+/** for mobile **/
+
+@media all and (max-width : 320px) {
+
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    body {
+        background-color: #EAE7E0;
+        color: #F14D23;
+    }
+
+    .labels {
+        font-family: "Newsreader";
+        font-size: 1rem;
+        font-weight: 400;
+        text-align: center;
+        padding-top: 5rem;
+        margin: 0;
+    }
+
+    .rain_poem {
+        text-align: center;
+        font-size: 2rem;
+        font-style: italic;
+        font-weight: 300;
+        padding-left: 4.5rem;
+        padding-right: 2rem;
+        margin: 0;
+    }
+
+    .rain_ref {
+        text-align: center;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        padding: 4rem;
+    }
+
+
+
+    /** ------------------------------------ **/
+
+
+
+
+    .rain_artwork {
+        background-color: #23485B;
+        color: #FAD3D8;
+        width: 100%;
+        height: 200%;
+        padding-bottom: 400px;
+
+    }
+
+    .rain_block1,
+    .rain_block2,
+    .rain_block3,
+    .rain_block4 {
+        font-size: 1rem;
+        font-weight: 100;
+    }
+
+    .rain_block1 {
+        position: relative;
+        top: 10vw;
+        right: -50vw;
+        width: 40vw;
+    }
+
+    .rain_block2 {
+        position: relative;
+        top: 25vw;
+        left: 15vw;
+        width: 33vw;
+    }
+
+    .rain_block3 {
+        position: relative;
+        top: 37vh;
+        left: 24vw;
+        width: 35vw;
     }
 
     .rain_block4 {

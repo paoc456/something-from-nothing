@@ -126,3 +126,287 @@ body {
     left: 60vw;
     width: 30vw;
 }
+
+
+
+
+@media all and (max-width : 768px) {
+
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    body {
+        background-color: #F14D23;
+        color: #FAD3D8;
+    }
+
+    .climb_poem {
+        text-align: center;
+        font-size: 3.5rem;
+        font-style: italic;
+        font-weight: 300;
+        padding: 4.45rem;
+        margin: 0;
+    }
+
+    .labels {
+        padding-top: 7rem;
+        font-size: 1.3rem;
+    }
+
+    .climb_ref {
+        text-align: center;
+        line-height: 2rem;
+        padding: 15rem;
+    }
+
+
+    /** ------------------------------------ **/
+
+    .climb_artwork {
+        background-color: #23485B;
+        color: #EAE7E0;
+        padding-bottom: 500px;
+    }
+
+    .climb_block1,
+    .climb_block2,
+    .climb_block3,
+    .climb_block4,
+    .climb_block5,
+    .climb_block6,
+    .climb_block7,
+    .climb_block8,
+    .climb_block9,
+    .climb_block10,
+    .climb_block11 {
+        font-size: 1.5rem;
+        line-height: 1.7rem;
+        font-weight: 100;
+    }
+
+    .climb_block10 {
+        /** the middle text block **/
+        position: relative;
+        top: 0vh;
+        right: -65vw;
+        width: 48vw;
+    }
+
+    .climb_block1 {
+        position: relative;
+        top: 10vh;
+        right: -47cqw;
+        width: 45vw;
+    }
+
+    .climb_block2 {
+        position: relative;
+        top: 17cqh;
+        right: -25cqw;
+        width: 45vw;
+    }
+
+    .climb_block3 {
+        position: relative;
+        top: 24cqh;
+        left: 10cqw;
+        width: 48vw;
+    }
+
+    .climb_block4 {
+        position: relative;
+        top: 30cqh;
+        left: 12cqw;
+        width: 28vw;
+    }
+
+    .climb_block5 {
+        position: relative;
+        top: 37cqh;
+        left: 15cqw;
+        width: 33vw;
+    }
+
+    .climb_block6 {
+        position: relative;
+        top: 44cqh;
+        left: 17cqw;
+        width: 33vw;
+    }
+
+    .climb_block7 {
+        position: relative;
+        top: 50cqh;
+        left: 21cqw;
+        width: 27vw;
+    }
+
+    .climb_block8 {
+        position: relative;
+        top: 57cqh;
+        left: 25cqw;
+        width: 17vw;
+    }
+
+    .climb_block9 {
+        position: relative;
+        top: 60cqh;
+        left: 30cqw;
+        width: 30vw;
+    }
+
+    .climb_block11 {
+        position: relative;
+        top: 50vh;
+        left: 60vw;
+        width: 30vw;
+    }
+}
+
+
+
+
+
+
+
+
+@media all and (max-width : 320px) {
+
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    body {
+        background-color: #F14D23;
+        color: #FAD3D8;
+    }
+
+    .climb_poem {
+        text-align: center;
+        font-size: 2rem;
+        font-style: italic;
+        font-weight: 300;
+        padding: 4.45rem;
+        margin: 0;
+    }
+
+    .labels {
+        padding-top: 5rem;
+        font-size: 1rem;
+    }
+
+    .climb_ref {
+        text-align: center;
+        line-height: 2rem;
+        padding: 4rem;
+    }
+
+
+    /** ------------------------------------ **/
+
+    .climb_artwork {
+        background-color: #23485B;
+        color: #EAE7E0;
+        padding-bottom: 400px;
+    }
+
+    .climb_block1,
+    .climb_block2,
+    .climb_block3,
+    .climb_block4,
+    .climb_block5,
+    .climb_block6,
+    .climb_block7,
+    .climb_block8,
+    .climb_block9,
+    .climb_block10,
+    .climb_block11 {
+        font-size: 1rem;
+        line-height: 1.3rem;
+        font-weight: 100;
+    }
+
+    .climb_block10 {
+        /** the middle text block **/
+        position: relative;
+        top: 0vh;
+        right: -65vw;
+        width: 25vw;
+    }
+
+    .climb_block1 {
+        position: relative;
+        top: 10vh;
+        right: -52cqw;
+        width: 40vw;
+    }
+
+    .climb_block2 {
+        position: relative;
+        top: 17cqh;
+        right: -25cqw;
+        width: 45vw;
+    }
+
+    .climb_block3 {
+        position: relative;
+        top: 24cqh;
+        left: 10cqw;
+        width: 48vw;
+    }
+
+    .climb_block4 {
+        position: relative;
+        top: 30cqh;
+        left: 12cqw;
+        width: 28vw;
+    }
+
+    .climb_block5 {
+        position: relative;
+        top: 37cqh;
+        left: 15cqw;
+        width: 33vw;
+    }
+
+    .climb_block6 {
+        position: relative;
+        top: 44cqh;
+        left: 17cqw;
+        width: 33vw;
+    }
+
+    .climb_block7 {
+        position: relative;
+        top: 50cqh;
+        left: 21cqw;
+        width: 27vw;
+    }
+
+    .climb_block8 {
+        position: relative;
+        top: 57cqh;
+        left: 25cqw;
+        width: 17vw;
+    }
+
+    .climb_block9 {
+        position: relative;
+        top: 60cqh;
+        left: 30cqw;
+        width: 30vw;
+    }
+
+    .climb_block11 {
+        position: relative;
+        top: 50vh;
+        left: 60vw;
+        width: 30vw;
+    }
+}
