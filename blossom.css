@@ -191,6 +191,7 @@ body {
 
     .labels {
         font-family: "Newsreader";
+        font-size: 1rem;
         font-weight: 400;
         text-align: center;
         padding-top: 5rem;

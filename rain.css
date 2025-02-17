@@ -116,7 +116,7 @@ body {
         font-weight: 300;
         padding: 7rem;
         margin: 0;
-        width: 70vw;
+
     }
 
     .rain_ref {
@@ -207,8 +207,7 @@ body {
         font-size: 2rem;
         font-style: italic;
         font-weight: 300;
-        padding-left: 4.5rem;
-        padding-right: 2rem;
+        padding: 4.5rem;
         margin: 0;
     }
 
