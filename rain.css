@@ -9,6 +9,16 @@ body {
     color: #F14D23;
 }
 
+footer {
+    text-align: center;
+    padding: 3.5rem;
+    color: #F14D23;
+}
+
+a {
+    color: #F14D23;
+}
+
 .labels {
     font-family: "Newsreader";
     font-weight: 400;

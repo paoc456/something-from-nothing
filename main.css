@@ -5,6 +5,16 @@ body {
     color: #FAD3D8;
 }
 
+footer {
+    text-align: center;
+    padding: 3.5rem;
+    color: #FAD3D8;
+}
+
+a {
+    color: #FAD3D8;
+}
+
 
 .home_title {
     font-family: "Newsreader";

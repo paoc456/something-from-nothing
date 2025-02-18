@@ -9,6 +9,16 @@ body {
     color: #FAD3D8;
 }
 
+footer {
+    text-align: center;
+    padding: 3.5rem;
+    color: #FAD3D8
+}
+
+a {
+    color: #FAD3D8;
+}
+
 .climb_poem {
     text-align: center;
     font-size: 7rem;
